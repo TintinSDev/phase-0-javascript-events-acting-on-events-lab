@@ -47,4 +47,10 @@ document.addEventListener("keydown", function (e) {
     if (e.key === "ArrowUp") {
       moveDodgerUp();
     }
-})*/
+})
+const 
+*/
+const h3 = document.createElement('h3');
+h3.textContent = 'This is a new Dodger';
+
+document.body.appendChild(h3);
